@@ -3,6 +3,7 @@
 Currently forcing myself down the depths of HTML and web dev.
 
 Feel free to check out some of my school work because why not
+
 My current project is recreating Wordle for funsies. Perhaps I will do something cool with it if NYT decides to paywall the original 👀
 
 Dunning-Kruger status check: Recovering from valley of despair
