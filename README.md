@@ -1,4 +1,4 @@
-# Haihai 👋
+# Howdy 👋
 
 Currently forcing myself down the depths of HTML and web dev.
 
