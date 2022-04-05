@@ -4,12 +4,7 @@ Currently forcing myself down the depths of HTML and web dev.
 
 Feel free to check out some of my school work because why not
 
-My current project is recreating Wordle for funsies. Perhaps I will do something cool with it if NYT decides to paywall the original 👀
-
-Dunning-Kruger status check: Recovering from valley of despair
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dunning%E2%80%93Kruger_Effect_01.svg/1231px-Dunning%E2%80%93Kruger_Effect_01.svg.png" width="340px">
-
+My current project is a Community Food Network for a local non-profit that helps needy people acquire food.
 <!--
 **jackdevillier/jackdevillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
