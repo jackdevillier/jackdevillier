@@ -2,9 +2,9 @@
 
 Currently forcing myself down the depths of HTML and web dev.
 
-Feel free to check out some of my school work because why not
+Feel free to check out some of my work back from high school!
 
-My current project is a Community Food Network for a local non-profit that helps needy people acquire food.
+I also recreated wordle from scratch as a personal project, so check that out too.
 <!--
 **jackdevillier/jackdevillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
