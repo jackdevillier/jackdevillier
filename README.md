@@ -1,7 +1,5 @@
 # Howdy 👋
 
-Currently forcing myself down the depths of HTML and web dev.
-
 Feel free to check out some of my work back from high school!
 
 I also recreated wordle from scratch as a personal project, so check that out too.
