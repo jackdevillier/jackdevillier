@@ -1,8 +1,10 @@
 # Howdy 👋
 
+Currently participating in Advent of Code 2023 :)
+I love word games, so I recreated Wordle from scratch as a personal project and I look forward to programming more word games in the future!
 Feel free to check out some of my work back from high school!
 
-I also recreated wordle from scratch as a personal project, so check that out too.
+
 <!--
 **jackdevillier/jackdevillier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
