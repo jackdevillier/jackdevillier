@@ -1,7 +1,9 @@
 # Howdy 👋
 
 Currently participating in Advent of Code 2023 :)
+
 I love word games, so I recreated Wordle from scratch as a personal project and I look forward to programming more word games in the future!
+
 Feel free to check out some of my work back from high school!
 
 
