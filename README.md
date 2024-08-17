@@ -1,11 +1,10 @@
 # Howdy 👋
 
-🔭 I’m currently working on mini-projects to expand my horizon on various libraries, programming languages, software, etc.! I am also learning C in a course @ VT!
+🔭 I’m currently working on mini-projects to expand my horizon on various libraries, programming languages, software, etc.!
 I love word games, so I recreated Wordle from scratch as a personal project and I look forward to programming more word games in the future!
 
-2023 Recap:
-🎓 Classes (Virginia Tech): CS2114, CS2104
-🎄 Advent of Code 2023 (temporarily)
+Spring 2024 Recap:
+🎓 Classes (Virginia Tech): CS2505
 
 Feel free to check out some of my work, spanning from high school to current-day!
 
