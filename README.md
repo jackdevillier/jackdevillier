@@ -1,6 +1,6 @@
 # Howdy 👋
 
-🔭 Currently working on my guitar-project repo, which is an opportunity for me to learn Rust and some neat libraries like egui and serde.
+🔭 Currently working on my guitar-journal repo, which is an opportunity for me to learn Rust and some neat libraries like egui and serde.
 
 Feel free to check out some of my work, spanning from high school to current-day!
 
